@@ -1,0 +1,43 @@
+.auth-links {
+  @media (max-width: 764px) {
+    border-top: solid 1px #e7e7e7;
+  }
+}
+
+.forgot-psswd-link {
+  margin-top: -8px;
+  margin-right: -12px;
+  text-align: right;
+  float: right;
+}
+
+.register-btn {
+  margin-left: 5px;
+  @media (min-width: 764px) {
+    margin-right: 30px;
+  }
+}
+
+.auth-head {
+  margin-bottom: 20px;
+}
+
+.auth-head-logo {
+  margin-bottom: -20px;
+}
+
+.auth-head-logo > h1 > a:link {
+  color: #777;
+}
+
+.auth-head-logo > h1 > a:visited {
+  color: #777;
+}
+
+.auth-head-logo > h1 > a:hover {
+  color: #000;
+}
+
+.auth-head-logo > h1 > a:active {
+  color: #000;
+}

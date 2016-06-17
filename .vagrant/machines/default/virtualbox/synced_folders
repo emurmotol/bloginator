@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/bloginator":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/bloginator","hostpath":"/home/klarizonemar/PhpstormProjects/bloginator","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/klarizonemar/PhpstormProjects/bloginator","disabled":false,"__vagrantfile":true}}}

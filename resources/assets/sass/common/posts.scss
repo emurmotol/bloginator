@@ -1,0 +1,31 @@
+.posts {
+  margin-top: -20px;
+  @media (min-width: 764px) {
+    margin-right: 30px;
+  }
+}
+
+.posts > .row > h1 > a {
+  margin-top: -35px;
+  margin-bottom: -20px;
+}
+
+.posts > .row > p {
+  font-size: 16px;
+}
+
+.posts > .row > ul > li {
+  display: inline;
+  padding: 0 .5em;
+  border-left: solid 2px #ccc;
+}
+
+.posts > .row > ul > li:first-child {
+  border-left: none;
+}
+
+.posts > .row > ul {
+  margin-left: -5px;
+  padding: 0;
+  list-style: none;
+}
